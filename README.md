@@ -1,8 +1,8 @@
-<h2 align="center">The Blacker the Berry the Sweeter the Juice</h2>
+<h2 align="center">joe mama</h2>
 
 <p align="center">
 
-  ![banner_thing](https://komarev.com/ghpvc/?username=KDot227&color=brightgreen)
+  ![banner_thing](https://komarev.com/ghpvc/?username=pogdogpy&color=FF69B4)
   
 </p>
 
