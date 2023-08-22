@@ -16,5 +16,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pogdogpy&hide=php&theme=synthwave" />
 </a>
 </div>
-<p2 align="center">https://www.github.com/kdot227 has contributed like 5 times already, hes kinda insane (hall of fame worthy) </p2>
-<!-- mah bad kdot i had to yoink it tho. -->
